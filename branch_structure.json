@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1151-mobile-add-location-accuracy-and-age-to-map-pins",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1151-mobile-add-location-accuracy-and-age-to-map-pins": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1151-mobile-add-location-accuracy-and-age-to-map-pins",
+    "origin"
+  ]
+}
